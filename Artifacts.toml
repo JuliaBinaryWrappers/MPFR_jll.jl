@@ -1,161 +1,161 @@
 [[MPFR]]
 arch = "aarch64"
-git-tree-sha1 = "6e66048950515fd69e968a7d13d868703a44d2bf"
+git-tree-sha1 = "4cb2c3604820c1240bdf1202e80b7c27333e7b66"
 os = "macos"
 
     [[MPFR.download]]
-    sha256 = "e2a2634d1ac590dfe02daffaeff08e4d531d0f9b3317a9bd2a403bb426c993b0"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "5f8c25ce20fc37b616b1a82a737b1de3ef1f8e8a59661f1279fefbdddfda0bca"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.aarch64-apple-darwin.tar.gz"
 [[MPFR]]
 arch = "aarch64"
-git-tree-sha1 = "eff48df26289567d74552f19c9b6439da422f8ce"
+git-tree-sha1 = "5e743fcaec9ec58333bdadd03d792104554cee8f"
 libc = "glibc"
 os = "linux"
 
     [[MPFR.download]]
-    sha256 = "bc35644348339b02c6adc7cda01af662f0e254e18cc018ed5c55af6ef926881d"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "8c469eda11f3f56e525efcc8918ddcd2f60ea3011aa84ada84b970eb2e71355b"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.aarch64-linux-gnu.tar.gz"
 [[MPFR]]
 arch = "aarch64"
-git-tree-sha1 = "94518d2d3fa746f137f99387b66d2cdef1ae80be"
+git-tree-sha1 = "827708ffc19fc20308da43a9b5051c1c5ceeb34e"
 libc = "musl"
 os = "linux"
 
     [[MPFR.download]]
-    sha256 = "a8e2ec58064abd26fb53fefb16972ba8eb9bb78e9b215e3de30c7a9b907273ea"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.aarch64-linux-musl.tar.gz"
+    sha256 = "4b8dec03657d32e02edf0c0badc8b0465581961c61e191560406baf42eea213d"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.aarch64-linux-musl.tar.gz"
 [[MPFR]]
 arch = "aarch64"
-git-tree-sha1 = "2e17f7e90ae25a90105712076e795949f6e3e115"
+git-tree-sha1 = "e9750b5e71cba15cb9695c4f6e0bd70efccd5787"
 os = "freebsd"
 
     [[MPFR.download]]
-    sha256 = "db68cf3ce8684439e519bcdd994fe1498f2b3e6359fe87da401be88964ac8c8a"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "6f291a7e542ba3d0c85adafa06ac1f64a78e58a1084c2b9413b54d61c6b19f7e"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.aarch64-unknown-freebsd.tar.gz"
 [[MPFR]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d222f6402f86332bfd3a4da85daf35b54abf3d4c"
+git-tree-sha1 = "4064ea1137686412a323400daaae5bbd6aae31e1"
 libc = "glibc"
 os = "linux"
 
     [[MPFR.download]]
-    sha256 = "78e1871f714894952be24efb24ec85de7aa6fa197e1ce9133afde126bd66d668"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "2da26e190c1e0afd8f1cbe92efcb782a27c66a7bfbd2f6e28a2d75b2399338cb"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.armv6l-linux-gnueabihf.tar.gz"
 [[MPFR]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "0ffdd5db9fafc3c19dcf91a7478e86457d065488"
+git-tree-sha1 = "82fcc168a9d3977baf363d2c5afcecacefcc0e1a"
 libc = "musl"
 os = "linux"
 
     [[MPFR.download]]
-    sha256 = "bbd70c0cd4898572d246f502a0608e2d1856be10069148e51cd79044f60359d7"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "eeaa91304d4cf8eaeecee3d80b18ca4d83ab3363932e388388230a62d841cf5e"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.armv6l-linux-musleabihf.tar.gz"
 [[MPFR]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "89ab6cd0602ece513d803f4142c758b32b8cd2ec"
+git-tree-sha1 = "36118a199b1d66569240c9196e3a737a8916141c"
 libc = "glibc"
 os = "linux"
 
     [[MPFR.download]]
-    sha256 = "5a19aaf6e10e33096f9cd90e25adde68bf11388ae1e9a17cf1f69ad03f749bca"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "c8086d3f076ae38eb32e3ee2dd0a5cd681deca4b120eedda7b0c01ce691bf241"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.armv7l-linux-gnueabihf.tar.gz"
 [[MPFR]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "85ff1c6a70d310a7e491defbc33171bccb9a6cde"
+git-tree-sha1 = "2dd83ecc6b64d40bdda0c820dc9d468c3009aea3"
 libc = "musl"
 os = "linux"
 
     [[MPFR.download]]
-    sha256 = "9da3d33e585d6cc377cad13d25c22595c499fd13cae6fa58789411fd36b97953"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "5b17b8f07094dafbea8f9ea01904e3e5e63e231f173ed18469df7a9756ddcafc"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.armv7l-linux-musleabihf.tar.gz"
 [[MPFR]]
 arch = "i686"
-git-tree-sha1 = "3226ff0e4f2295da999d8b93e9c2dd36d2e2d5a9"
+git-tree-sha1 = "91340b74118eaab7b6d3e5eeb4fff62724f10f60"
 libc = "glibc"
 os = "linux"
 
     [[MPFR.download]]
-    sha256 = "68c4b6d8768dbe418de7df55646686dcc93dbdd2ee292e59accca1b0f03eb064"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.i686-linux-gnu.tar.gz"
+    sha256 = "b890253ff5ba8f08f8bfbc47a71d3d08ae7e440272e75f760c7910f4892f2c85"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.i686-linux-gnu.tar.gz"
 [[MPFR]]
 arch = "i686"
-git-tree-sha1 = "981b42b4c55ab22a3094ffebb29ee6b925c8df02"
+git-tree-sha1 = "a397edf57cc33019527977aa07d5a40c6c2f5ed4"
 libc = "musl"
 os = "linux"
 
     [[MPFR.download]]
-    sha256 = "431fb2cbdc15b5bfc5fda58076beab0e33abd3a00b35822a9e81222e0f9b7cf0"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.i686-linux-musl.tar.gz"
+    sha256 = "b36f088b3bd18860ce985737c99a45025fec0664ecea753e15abe5f430e402b3"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.i686-linux-musl.tar.gz"
 [[MPFR]]
 arch = "i686"
-git-tree-sha1 = "ab98e4bad672240d5eb0d88d8454cefe57cac326"
+git-tree-sha1 = "420c166700cc2ccbdafc2457c342ed1bed045c76"
 os = "windows"
 
     [[MPFR.download]]
-    sha256 = "230c9186f46c88ee462bf4f8a1e01bdae72e98450762deec473a98723e93effb"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.i686-w64-mingw32.tar.gz"
+    sha256 = "2fe789887296d31eb621c83f13d2dc8bd21ac2bced63c3787cc5dd50863863ab"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.i686-w64-mingw32.tar.gz"
 [[MPFR]]
 arch = "powerpc64le"
-git-tree-sha1 = "bffa97b27ed3ff251261a954bd4c2d544423214f"
+git-tree-sha1 = "9e2059d213a4d75a3cd40e4027dc897f96b0e22e"
 libc = "glibc"
 os = "linux"
 
     [[MPFR.download]]
-    sha256 = "f4b200096e49c197674024f7b02fabfc07f0d5acf1b07513723eb44aca80e728"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "568ef05e08f9d080177230152c55a9ce16bafbdfb46954d89551a5174454a343"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.powerpc64le-linux-gnu.tar.gz"
 [[MPFR]]
 arch = "x86_64"
-git-tree-sha1 = "0ae46afff051b2e69ed2d14842202fef60db9e6a"
+git-tree-sha1 = "d40c765e0cc94c901c85a9afdaa73c87c5d899d0"
 os = "macos"
 
     [[MPFR.download]]
-    sha256 = "e818d04e0283382f2e7de04850aec27b13adc5d383b8c430ef506ced3b6ceb70"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "de89412ae7740bd8f5af713bf0e91323ec7f789c1b7de56291e5af4c4e57309f"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.x86_64-apple-darwin.tar.gz"
 [[MPFR]]
 arch = "x86_64"
-git-tree-sha1 = "7211bfa8ba5013c29607ffe862cf88c15e01160f"
+git-tree-sha1 = "109a360e8e928deab943b64ac3bd092bcff0d8cc"
 libc = "glibc"
 os = "linux"
 
     [[MPFR.download]]
-    sha256 = "e25dbf9943477b09c7960e6dd9d7639405aa11c3c605bce44d8c47c5af1c1e61"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "755e2657f0981b80d2de4016e52494536fee4a8bfb2814477393ca4ec053ab36"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.x86_64-linux-gnu.tar.gz"
 [[MPFR]]
 arch = "x86_64"
-git-tree-sha1 = "ff8b2fefd202b454da31cfc54a19526125a6a183"
+git-tree-sha1 = "7db1ddb46ac3e0a4186e3aa9cbec9d068472cd38"
 libc = "glibc"
 os = "linux"
 sanitize = "memory"
 
     [[MPFR.download]]
-    sha256 = "a9646a5ab8b0c2b9eb0297caffe26e872c92bf1c95535aae71727a8cc62ecad7"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.x86_64-linux-gnu-sanitize+memory.tar.gz"
+    sha256 = "523cd3fd4ed90758f39e2ef638deb1ae9ec0949b3fad72f9d2b726a53176c1ad"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.x86_64-linux-gnu-sanitize+memory.tar.gz"
 [[MPFR]]
 arch = "x86_64"
-git-tree-sha1 = "64cfc9fbd0975a1d21cde245315bee349dcc113d"
+git-tree-sha1 = "72fe54c5e52463058bd42cf1c9de82aeb2f8049a"
 libc = "musl"
 os = "linux"
 
     [[MPFR.download]]
-    sha256 = "44080333e9ffa986a0910acfeb0c48a98bbef6b0780f50f3bb6d7134ebb0d6be"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.x86_64-linux-musl.tar.gz"
+    sha256 = "20d7c78251b2f42670845c91fe161c2995bc79691c8f19cb47481e27fb8fb826"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.x86_64-linux-musl.tar.gz"
 [[MPFR]]
 arch = "x86_64"
-git-tree-sha1 = "ac0709c9217a6aee46d7ff25d0cc14c54bf7f3a3"
+git-tree-sha1 = "de663741f76e01429d2c5ba7f21729192f00a1c7"
 os = "freebsd"
 
     [[MPFR.download]]
-    sha256 = "2008f83a854f177d0dbf25635a546a2ada20e7543e386c717365ab5f84496017"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "8096606a3413b69a3db53b3a312d043ff834f2c11aedf6253fb87b61a264d93f"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.x86_64-unknown-freebsd.tar.gz"
 [[MPFR]]
 arch = "x86_64"
-git-tree-sha1 = "f568fb485c17369c9b12b5823637374340f90abf"
+git-tree-sha1 = "2b354a861e1ba91614cbe59ab73af0559c8cccc3"
 os = "windows"
 
     [[MPFR.download]]
-    sha256 = "6d20b11a48f8806887d7a9fe406a06fc6660d37f1fa9f57d6182c8427353ea89"
-    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.2.1+1/MPFR.v4.2.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "34d58d27c0bb3b45c0b5190b8a0743ecc5e3666e76d423a7a68bb5cc5b805d3c"
+    url = "https://github.com/JuliaBinaryWrappers/MPFR_jll.jl/releases/download/MPFR-v4.1.1+5/MPFR.v4.1.1.x86_64-w64-mingw32.tar.gz"
